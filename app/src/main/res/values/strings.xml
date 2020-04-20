@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kashyap Stopwatch/Timer Lab</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="set_time">Set time (s): </string>
+    <string name="timer_hint">Enter time (s)</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="timer">Timer</string>
+</resources>
